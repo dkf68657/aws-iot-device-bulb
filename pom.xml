@@ -7,10 +7,9 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.2.6.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.haresh</groupId>
-	<artifactId>AWS_IoT_Example</artifactId>
+	<groupId>com.aws.iot.training</groupId>
+	<artifactId>device-bulb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>device-bulb</name>
 	<description>Demo project for Spring Boot</description>
