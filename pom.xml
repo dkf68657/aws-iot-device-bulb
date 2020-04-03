@@ -12,7 +12,7 @@
 	<groupId>com.haresh</groupId>
 	<artifactId>AWS_IoT_Example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AWS_IoT_Example</name>
+	<name>device-bulb</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
